@@ -33,7 +33,6 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 
 
 
-</div>
 
 {% comment %}
 8< ============================= until here ==================

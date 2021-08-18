@@ -268,7 +268,7 @@ Edit the text to match who can attend the workshop. For instance:
   </p>
   
   <p id="register-here">
-  <strong>Register here:</strong> https://kubkalender.kb.dk/event/3773049
+  <strong>Register here:</strong> <a href="https://kubkalender.kb.dk/event/3773049"/a>
 </p>
 
 

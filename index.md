@@ -266,6 +266,7 @@ Edit the text to match who can attend the workshop. For instance:
     <strong>Who can attend?:</strong>
     This workshop is open to students, researchers and staff affiliated the University of Copenhagen and University Library, with @*.ku.dk, @kb.dk, @itu.dk addresses. 
   
+  
   <strong>Register here:</strong> https://kubkalender.kb.dk/event/3773049
 </p>
 

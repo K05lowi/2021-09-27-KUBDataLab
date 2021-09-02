@@ -269,6 +269,10 @@ Edit the text to match who can attend the workshop. For instance:
   
   <p id="register-here">
   <strong>Register here:</strong> <a href="https://kubkalender.kb.dk/event/3773049" target="_blank">Copenhagen University Library</a>
+  
+  <p id="need-help-with-installation?">
+    <strong>Need help with installation?:</strong>
+    Please read the Setup section carefully <a href="https://datacarpentry.org/socialsci-workshop/setup-r-workshop.html" target="_blank">Setup</a> If you need help with installation drop by our Data Lab, KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N, on the 22nd September between 12:30 pm and 2pm.
 </p>
 
 
@@ -406,7 +410,7 @@ please preview your site before committing, and make sure to run
   {% endif %}
   workshop,
   you will need access to software as described below.
-  In addition, you will need an up-to-date web browser. <strong>Need help with installation?</strong> drop by Data Lab, KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N, on the 22 September between 12:30 pm and 2pm.
+  In addition, you will need an up-to-date web browser. <strong>Need help with installation?</strong> drop by Data Lab, KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N, on the 22nd September between 12:30 pm and 2pm.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors

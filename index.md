@@ -406,7 +406,7 @@ please preview your site before committing, and make sure to run
   {% endif %}
   workshop,
   you will need access to software as described below.
-  In addition, you will need an up-to-date web browser. **Need help with installation?** drop by Data Lab, KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N, on the 22 september between 12:30 pm and 2pm.
+  In addition, you will need an up-to-date web browser. <strong>Need help with installation?</strong> drop by Data Lab, KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N, on the 22 september between 12:30 pm and 2pm.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors

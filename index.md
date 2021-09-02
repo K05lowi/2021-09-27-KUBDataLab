@@ -442,5 +442,5 @@ during the workshop.
 {% elsif site.carpentry == "pilot" %}
 Please check the "Setup" page of
 [the lesson site]({{ site.lesson_site }}) for instructions to follow
-to obtain the software and data you will need to follow the lesson.
+to obtain the software and data you will need to follow the lesson.**Need help with installation?** drop by Data Lab, KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N, on the 22 september between 12:30 pm and 2pm.
 {% endif %}

@@ -268,8 +268,8 @@ Edit the text to match who can attend the workshop. For instance:
   </p>
   
   <p id="register-here">
-  <strong>Register here:</strong> <a href="https://kubkalender.kb.dk/event/3773049" target="_blank">Copenhagen University Library</a>
-  
+  <strong>Register here for the 26th of April:</strong> <a href="https://kubkalender.kb.dk/calendar/datalab?cid=6416&t=d&d=2022-04-26&cal=6416&inc=0" target="_blank">Copenhagen University Library</a>
+  <strong>Register here for the 3rd of May:</strong> <a href="https://kubkalender.kb.dk/calendar/datalab?cid=6416&t=d&d=2022-05-03&cal=6416&inc=0" target="_blank">Copenhagen University Library</a>
   <p id="need-help-with-installation?">
     <strong>Need help with installation?:</strong>
     Please read <a href="https://datacarpentry.org/socialsci-workshop/setup-r-workshop.html" target="_blank">Setup</a> section carefully. If you need help with installation drop by our Data Lab, KUB Nord - Natur og Sundhedsvidenskab, Nørre Allé 49, 2200 København N, on the 22nd September between 12:30 pm and 2pm.
